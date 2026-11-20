@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  html,
+  body,
+  #app {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .tip {
+    padding: 20px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    background: url('../img/tip-bgc.png') no-repeat;
+    background-size: 100% 100%;
+  }
+
+  .green{
+      color: #2effff;
+  }
+
+  .yellow{
+      color: #F8D800;
+  }
